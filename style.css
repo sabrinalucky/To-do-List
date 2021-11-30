@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+width;100%;
+height: 100vh;
+background: linear-gradient(to right,#79B4B7,#D4ECDD);
+}
+.enter-box{
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 300px;
+
+
+}
+.task-box{
+	width: 500px;
+	padding: 10px;
+}
+.non-cmplt{
+	margin-left: 300px;
+	margin-top: 30px;
+}
+.task{
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 500px;
+	padding: 8px;
+	margin-top: 10px;
+}
+.task i{
+	float: right;
+	margin: 0px 5px;
+}
+.fa-trash{
+	color: red;
+}
+
+.fa-check{
+	color:green;
+}
+.cmplt{
+	margin-left: 300px;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
